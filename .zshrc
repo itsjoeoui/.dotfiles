@@ -110,4 +110,3 @@ alias config='/usr/bin/git --git-dir=/Volumes/Workspace/.dotfiles/ --work-tree=$
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# echo
